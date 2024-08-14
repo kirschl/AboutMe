@@ -35,5 +35,20 @@ Two things are infinite: the universe and human **stupidity**; and I'm not sure 
 ## Persons of Interest
 
 [Albert Einstein][1]<br>
-<img src="img/Einstein" height="000px" width="000px">
-[Abraham Lincon][2]<br>
+<kbd>
+<img src="https://github.com/kirschl/AboutMe/blob/main/img/Einstein.jpg" height="200px" width="200px">
+</kbd><br>
+[Abraham Lincoln][2]<br>
+<kbd>
+<img src="https://github.com/kirschl/AboutMe/blob/main/img/Lincoln.jpg" height="200px" width="200px">
+</kbd>
+
+## Favorite Terms
+
+|Term|Definition|
+|:-|:----:|
+|Splendid|very impressive|
+|Mate|a friend or companion|
+|Reckon|consider or regard in a specified way|
+
+
